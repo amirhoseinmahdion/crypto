@@ -1,0 +1,9 @@
+.conatiner input {
+    padding: 6px 50px;
+    margin-top: 20px;
+    text-align: center;
+    background-color: orange;
+    color: black;
+    border-radius: 10px;
+  border: none;
+}

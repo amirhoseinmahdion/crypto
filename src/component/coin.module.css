@@ -1,0 +1,29 @@
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+      padding: 5px 90px;
+      border: 1px solid black;
+      margin: 20px 0;
+      background-color: orange;
+      border-left: none;
+      border-right: none;
+      border-top: none;
+      box-shadow: 5px 5px black;
+     
+     
+}
+.main img {
+    width: 100px;
+    height: 100px;
+}
+
+.greenprice{
+    color: green;
+   
+}
+.redprice{
+    color: red;
+  
+}
